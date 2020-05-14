@@ -1,6 +1,5 @@
 body {
-    background-image: url("/IMG/deserto.jpg");
-    opacity: .4;
+    background-image: url("/IMG/bg-img.jpg");
     background-size: auto 100vh;
     font-family: Arial;
     height: 100vh;
