@@ -1,10 +1,12 @@
 body {
-    background-image: url("/IMG/bg-img.jpg");
-    background-size: auto 100vh;
+    background-image: url("/IMG/bg-img.png");
+    backdrop-filter: opacity(80%);
+    background-size: 100vw auto;
+    background-position: center;
     font-family: Arial;
     height: 100vh;
   }
-  
+
   .menu {
     background-color: white;
   }
@@ -29,7 +31,7 @@ body {
   
   .site-subtitle, 
   .site-title {
-    color: whitesmoke;
+    color: white;
     text-align: center;
   }
   
