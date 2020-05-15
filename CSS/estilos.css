@@ -1,6 +1,6 @@
 body {
     background-image: url("/IMG/bg-img.png");
-    backdrop-filter: opacity(80%);
+    backdrop-filter: opacity(50%);
     background-size: 100vw auto;
     background-position: center;
     font-family: Arial;
